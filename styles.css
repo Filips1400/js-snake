@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-weight: 700;
+}
+.keyboard{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
 canvas {
     display: block;
     margin: 0 auto;
